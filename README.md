@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Web development(HTML,CSS,JAVASCRIPT) , App development(Kotlin,Flutter) , DSA & OOP(C++) , Automation(Python).
 - 💞️ I’m looking to collaborate on any project.
 - 📫 You can reach me on my Official email: hsworkshop7@gmail.com
-- 😄 Pronouns: You may call me Batman xd.
+- 😄 Pronouns: bat/man
